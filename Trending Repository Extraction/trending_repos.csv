@@ -1,0 +1,261 @@
+author,name,url,description,language,spoken_language,stars
+datguypiko,Firefox-Mod-Blur,https://github.com/datguypiko/Firefox-Mod-Blur,Firefox Theme - For dark theme lovers / More compact / Modular / Blur,CSS,English,1053
+kepano,obsidian-minimal,https://github.com/kepano/obsidian-minimal,A distraction-free and highly customizable theme for Obsidian.,CSS,English,3398
+septiandwica,kado,https://github.com/septiandwica/kado,flower,CSS,English,246
+rafaelmardojai,firefox-gnome-theme,https://github.com/rafaelmardojai/firefox-gnome-theme,A GNOME👣 theme for Firefox🔥,CSS,English,3248
+AnubisNekhet,AnuPpuccin,https://github.com/AnubisNekhet/AnuPpuccin,Personal theme for Obsidian,CSS,English,1845
+amyyalex,simple-contribution,https://github.com/amyyalex/simple-contribution,This is a very simple project to help first-time contributors to easily participate in an open-source project.,CSS,English,56
+ryanoasis,nerd-fonts,https://github.com/ryanoasis/nerd-fonts,"Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more",CSS,English,51891
+spicetify,spicetify-themes,https://github.com/spicetify/spicetify-themes,A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli,CSS,English,4747
+yaoyao-liu,minimal-light,https://github.com/yaoyao-liu/minimal-light,A simple and elegant Jekyll theme for an academic personal homepage,CSS,English,508
+GuangLun2000,GuangLun2000.github.io,https://github.com/GuangLun2000/GuangLun2000.github.io,"(Minimalism Style) Powered by Jekyll, based on the Minimal Mistakes theme and Jason Ansel's website",CSS,English,419
+ferdium,ferdium-recipes,https://github.com/ferdium/ferdium-recipes,Recipes encapsulate your favourite apps into Ferdium for unified notifications handling and more,CSS,English,70
+adobe,spectrum-css,https://github.com/adobe/spectrum-css,The standard CSS implementation of the Spectrum design language.,CSS,English,1158
+Concept-Collective,cc-chat,https://github.com/Concept-Collective/cc-chat,A chat theme for FiveM & RedM,CSS,English,65
+efemkay,obsidian-modular-css-layout,https://github.com/efemkay/obsidian-modular-css-layout,CSS Layout hack for Obsidian.md,CSS,English,799
+primefaces,sakai-vue,https://github.com/primefaces/sakai-vue,,CSS,English,436
+tiann,KernelSU,https://github.com/tiann/KernelSU,A Kernel based root solution for Android,Kotlin,English,8544
+android,nowinandroid,https://github.com/android/nowinandroid,A fully functional Android app built entirely with Kotlin and Jetpack Compose,Kotlin,English,15571
+yairm210,Unciv,https://github.com/yairm210/Unciv,Open-source Android/Desktop remake of Civ V,Kotlin,English,7820
+YiiGuxing,TranslationPlugin,https://github.com/YiiGuxing/TranslationPlugin,Translation plugin for IntelliJ based IDEs/Android Studio.,Kotlin,English,10967
+skydoves,chatgpt-android,https://github.com/skydoves/chatgpt-android,📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.,Kotlin,English,3561
+celzero,rethink-app,https://github.com/celzero/rethink-app,"DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.",Kotlin,English,2483
+chenxiaolong,BCR,https://github.com/chenxiaolong/BCR,A Basic Call Recorder for rooted Android devices,Kotlin,English,1432
+libre-tube,LibreTube,https://github.com/libre-tube/LibreTube,"An alternative frontend for YouTube, for Android.",Kotlin,English,7845
+pedroSG94,RootEncoder,https://github.com/pedroSG94/RootEncoder,"RootEncoder for Android (rtmp-rtsp-stream-client-java) is a stream encoder to push video/audio to media servers using protocols RTMP, RTSP, SRT and UDP with all code written in Java/Kotlin",Kotlin,English,2409
+keymapperorg,KeyMapper,https://github.com/keymapperorg/KeyMapper,**DEVELOPMENT STOPPED**.📱 An Android app that change what the buttons do on your devices!,Kotlin,English,923
+android,snippets,https://github.com/android/snippets,Main repository for snippets surfaced on developer.android.com.,Kotlin,English,523
+dead8309,Kizzy,https://github.com/dead8309/Kizzy,Discord Rich Presence for Android. Made with jetpack compose and material3,Kotlin,English,491
+stripe,stripe-android,https://github.com/stripe/stripe-android,Stripe Android SDK,Kotlin,English,1222
+kylecorry31,Trail-Sense,https://github.com/kylecorry31/Trail-Sense,An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.,Kotlin,English,979
+pinterest,ktlint,https://github.com/pinterest/ktlint,An anti-bikeshedding Kotlin linter with built-in formatter,Kotlin,English,6033
+flipperdevices,Flipper-Android-App,https://github.com/flipperdevices/Flipper-Android-App,Android Mobile app to rule all Flipper's family,Kotlin,English,1330
+recloudstream,cloudstream,https://github.com/recloudstream/cloudstream,Android app for streaming and downloading media.,Kotlin,English,5646
+Hamza417,Inure,https://github.com/Hamza417/Inure,"An elegant and beautiful premium Android app manager for both rooted and non-rooted devices with a built-in terminal, analytics, debloat, stats and various other panels with an independent custom theme engine, developed with purely custom APIs created for this app.",Kotlin,English,904
+SmartToolFactory,Jetpack-Compose-Tutorials,https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials,"🚀🧨📝 Series of Tutorials to learn about Jetpack Compose with subjects Material Widgets, Layout, SubcomposeLayout, custom layouts, State, custom rememberable, recomposition, LaunchedEffect, side-effects, Gesture, Animation, Navigation, Canvas, UIs like whatsapp and others.",Kotlin,English,2561
+patrykandpatrick,vico,https://github.com/patrykandpatrick/vico,A light and extensible chart library for Android.,Kotlin,English,1860
+intellij-rust,intellij-rust,https://github.com/intellij-rust/intellij-rust,Rust plugin for the IntelliJ Platform,Kotlin,English,4521
+rickclephas,KMP-NativeCoroutines,https://github.com/rickclephas/KMP-NativeCoroutines,Library to use Kotlin Coroutines from Swift code in KMP apps,Kotlin,English,976
+mockk,mockk,https://github.com/mockk/mockk,mocking library for Kotlin,Kotlin,English,5300
+andvipgroup,VCamera,https://github.com/andvipgroup/VCamera,,Kotlin,English,177
+burhanrashid52,PhotoEditor,https://github.com/burhanrashid52/PhotoEditor,"A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.",Kotlin,English,4040
+flutter,samples,https://github.com/flutter/samples,A collection of Flutter examples and demos,Dart,English,16692
+ente-io,ente,https://github.com/ente-io/ente,"Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",Dart,English,8338
+leoafarias,fvm,https://github.com/leoafarias/fvm,Flutter Version Management: A simple CLI to manage Flutter SDK versions.,Dart,English,4344
+ReVanced,revanced-manager,https://github.com/ReVanced/revanced-manager,💊 Application to use ReVanced on Android,Dart,English,16096
+fzyzcjy,flutter_rust_bridge,https://github.com/fzyzcjy/flutter_rust_bridge,"Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple.",Dart,English,3627
+ImranR98,Obtainium,https://github.com/ImranR98/Obtainium,Get Android app updates straight from the source.,Dart,English,5434
+pichillilorenzo,flutter_inappwebview,https://github.com/pichillilorenzo/flutter_inappwebview,"A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window.",Dart,English,3017
+JideGuru,FlutterEbookApp,https://github.com/JideGuru/FlutterEbookApp,A simple Flutter app to Read and Download eBooks.,Dart,English,2814
+bizz84,flutter-tips-and-tricks,https://github.com/bizz84/flutter-tips-and-tricks,My Flutter Tips & Tricks on Twitter 👇,Dart,English,1865
+Suwayomi,Tachidesk-Sorayomi,https://github.com/Suwayomi/Tachidesk-Sorayomi,A free and open source manga reader app to read manga from a Tachidesk-Server instance.,Dart,English,723
+LinwoodDev,Butterfly,https://github.com/LinwoodDev/Butterfly,"🎨 Powerful, minimalistic, cross-platform, opensource note-taking app",Dart,English,864
+realm,realm-dart,https://github.com/realm/realm-dart,Realm is a mobile database: a replacement for SQLite & ORMs.,Dart,English,724
+flutter-stripe,flutter_stripe,https://github.com/flutter-stripe/flutter_stripe,Flutter SDK for Stripe.,Dart,English,893
+juliansteenbakker,mobile_scanner,https://github.com/juliansteenbakker/mobile_scanner,A universal scanner for Flutter based on MLKit. Uses CameraX on Android and AVFoundation on iOS.,Dart,English,756
+vandadnp,flutter-tips-and-tricks,https://github.com/vandadnp/flutter-tips-and-tricks,A Collection of Flutter and Dart Tips and Tricks,Dart,English,6616
+fluttercommunity,font_awesome_flutter,https://github.com/fluttercommunity/font_awesome_flutter,The Font Awesome Icon pack available as Flutter Icons,Dart,English,824
+KRTirtho,spotube,https://github.com/KRTirtho/spotube,🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!,Dart,English,25011
+AppsFlyerSDK,appsflyer-flutter-plugin,https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin,Flutter Plugin for AppsFlyer SDK,Dart,English,139
+sail-tunnel,sail,https://github.com/sail-tunnel/sail,A flutter demo client application for v2board.,Dart,English,440
+invertase,melos,https://github.com/invertase/melos,"🌋 A tool for managing Dart projects with multiple packages. With IntelliJ and Vscode IDE support. Supports automated versioning, changelogs & publishing via Conventional Commits.",Dart,English,1044
+iluwatar,java-design-patterns,https://github.com/iluwatar/java-design-patterns,Design patterns implemented in Java,Java,English,87413
+redisson,redisson,https://github.com/redisson/redisson,"Redisson - Easy Valkey/Redis Java client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache ...",Java,English,22826
+TheoKanning,openai-java,https://github.com/TheoKanning/openai-java,OpenAI Api Client in Java,Java,English,4626
+apache,shardingsphere,https://github.com/apache/shardingsphere,"Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.",Java,English,19497
+amitshekhariitbhu,android-interview-questions,https://github.com/amitshekhariitbhu/android-interview-questions,Your Cheat Sheet For Android Interview - Android Interview Questions and Answers,Java,English,10963
+apache,flink-cdc,https://github.com/apache/flink-cdc,Flink CDC is a streaming data integration tool,Java,English,5360
+OpenAPITools,openapi-generator,https://github.com/OpenAPITools/openapi-generator,"OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",Java,English,20163
+IrisShaders,Iris,https://github.com/IrisShaders/Iris,A modern shaders mod for Minecraft compatible with existing OptiFine shader packs,Java,English,3129
+gyoogle,tech-interview-for-developer,https://github.com/gyoogle/tech-interview-for-developer,👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖,Java,English,13690
+datahub-project,datahub,https://github.com/datahub-project/datahub,The Metadata Platform for your Data Stack,Java,English,9299
+apache,cloudstack,https://github.com/apache/cloudstack,Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform,Java,English,1788
+in28minutes,master-spring-and-spring-boot,https://github.com/in28minutes/master-spring-and-spring-boot,Spring and Spring Boot Tutorial For Absolute Beginners - 10-in-1 - Spring to Spring Boot to REST API to Full Stack to Containers to Cloud,Java,English,1096
+provectus,kafka-ui,https://github.com/provectus/kafka-ui,Open-Source Web UI for Apache Kafka Management,Java,English,8709
+apache,kafka,https://github.com/apache/kafka,Mirror of Apache Kafka,Java,English,27569
+karatelabs,karate,https://github.com/karatelabs/karate,Test Automation Made Simple,Java,English,7904
+Team-xManager,xManager,https://github.com/Team-xManager/xManager,"Ad-Free, New Features & Freedom",Java,English,8550
+SeleniumHQ,selenium,https://github.com/SeleniumHQ/selenium,A browser automation framework and ecosystem.,Java,English,29491
+bitcoin-wallet,bitcoin-wallet,https://github.com/bitcoin-wallet/bitcoin-wallet,"Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.",Java,English,3585
+apache,dolphinscheduler,https://github.com/apache/dolphinscheduler,Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code,Java,English,12248
+cryptomator,cryptomator,https://github.com/cryptomator/cryptomator,Multi-platform transparent client-side encryption of your files in the cloud,Java,English,10760
+apache,hbase,https://github.com/apache/hbase,Apache HBase,Java,English,5130
+apache,seatunnel,https://github.com/apache/seatunnel,"SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.",Java,English,7471
+Telegram-FOSS-Team,Telegram-FOSS,https://github.com/Telegram-FOSS-Team/Telegram-FOSS,"Unofficial, FOSS-friendly fork of the original Telegram client for Android",Java,English,2698
+xCollateral,VulkanMod,https://github.com/xCollateral/VulkanMod,Vulkan renderer mod for Minecraft.,Java,English,1382
+jeremylong,DependencyCheck,https://github.com/jeremylong/DependencyCheck,OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.,Java,English,5946
+trekhleb,javascript-algorithms,https://github.com/trekhleb/javascript-algorithms,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,JavaScript,English,183993
+poteto,hiring-without-whiteboards,https://github.com/poteto/hiring-without-whiteboards,⭐️ Companies that don't have a broken hiring process,JavaScript,English,42165
+microsoft,Web-Dev-For-Beginners,https://github.com/microsoft/Web-Dev-For-Beginners,"24 Lessons, 12 Weeks, Get Started as a Web Developer",JavaScript,English,81807
+axios,axios,https://github.com/axios/axios,Promise based HTTP client for the browser and node.js,JavaScript,English,104261
+plankanban,planka,https://github.com/plankanban/planka,The realtime kanban board for workgroups built with React and Redux.,JavaScript,English,6848
+koodo-reader,koodo-reader,https://github.com/koodo-reader/koodo-reader,"A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",JavaScript,English,16238
+mishoo,UglifyJS,https://github.com/mishoo/UglifyJS,JavaScript parser / mangler / compressor / beautifier toolkit,JavaScript,English,12964
+fastify,fastify,https://github.com/fastify/fastify,"Fast and low overhead web framework, for Node.js",JavaScript,English,30886
+sudheerj,reactjs-interview-questions,https://github.com/sudheerj/reactjs-interview-questions,List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!,JavaScript,English,37174
+OCA,web,https://github.com/OCA/web,Odoo web client UI related addons,JavaScript,English,871
+sun0225SUN,Awesome-Love-Code,https://github.com/sun0225SUN/Awesome-Love-Code,表白代码收藏馆~谁说程序猿不懂浪漫❤️,JavaScript,English,2087
+gethomepage,homepage,https://github.com/gethomepage/homepage,A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.,JavaScript,English,16616
+dimdenGD,OldTwitter,https://github.com/dimdenGD/OldTwitter,Extension to return old Twitter layout from 2015 / 2018.,JavaScript,English,1655
+vincelwt,chatgpt-mac,https://github.com/vincelwt/chatgpt-mac,"ChatGPT for Mac, living in your menubar.",JavaScript,English,6331
+sudheerj,javascript-interview-questions,https://github.com/sudheerj/javascript-interview-questions,List of 1000 JavaScript Interview Questions,JavaScript,English,22202
+meshery,meshery,https://github.com/meshery/meshery,"Meshery, the cloud native manager",JavaScript,English,4946
+simple-icons,simple-icons,https://github.com/simple-icons/simple-icons,SVG icons for popular brands,JavaScript,English,18315
+leonardomso,33-js-concepts,https://github.com/leonardomso/33-js-concepts,📜 33 JavaScript concepts every developer should know.,JavaScript,English,62318
+github,relative-time-element,https://github.com/github/relative-time-element,Web component extensions to the standard <time> element.,JavaScript,English,3216
+carbon-design-system,carbon,https://github.com/carbon-design-system/carbon,A design system built by IBM,JavaScript,English,7507
+yokoffing,Betterfox,https://github.com/yokoffing/Betterfox,"Firefox user.js for speed, privacy, and security. Your favorite browser, but better.",JavaScript,English,3752
+jaywcjlove,awesome-mac,https://github.com/jaywcjlove/awesome-mac," Now we have become very big, Different from the original idea. Collect premium software in various categories.",JavaScript,English,72083
+artilleryio,artillery,https://github.com/artilleryio/artillery,"The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module.",JavaScript,English,7555
+jgraph,drawio-desktop,https://github.com/jgraph/drawio-desktop,Official electron build of draw.io,JavaScript,English,47241
+open-domains,register,https://github.com/open-domains/register,"Free subdomains for personal sites, open-source projects, and more.",JavaScript,English,982
+f,awesome-chatgpt-prompts,https://github.com/f/awesome-chatgpt-prompts,This repo includes ChatGPT prompt curation to use ChatGPT better.,HTML,English,105262
+kananinirav,AWS-Certified-Cloud-Practitioner-Notes,https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes,AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02),HTML,English,1028
+rfordatascience,tidytuesday,https://github.com/rfordatascience/tidytuesday,Official repo for the #tidytuesday project,HTML,English,6463
+cotes2020,jekyll-theme-chirpy,https://github.com/cotes2020/jekyll-theme-chirpy,"A minimal, responsive, and feature-rich Jekyll theme for technical writing.",HTML,English,6461
+markodenic,web-development-resources,https://github.com/markodenic/web-development-resources,Awesome Web Development Resources.,HTML,English,6867
+judge0,judge0,https://github.com/judge0/judge0,🔥 The most advanced open-source online code execution system in the world.,HTML,English,2224
+alshedivat,al-folio,https://github.com/alshedivat/al-folio,"A beautiful, simple, clean, and responsive Jekyll theme for academics",HTML,English,9381
+meichthys,foss_photo_libraries,https://github.com/meichthys/foss_photo_libraries,Free and Open Source Photo Libraries,HTML,English,1385
+thedev-id,thedev.id,https://github.com/thedev-id/thedev.id,Identity for developers on the web.,HTML,English,998
+ironhack-labs,lab-css-flexbox-slack,https://github.com/ironhack-labs/lab-css-flexbox-slack,,HTML,English,33
+okta,okta-help,https://github.com/okta/okta-help,HTML output of Okta product documentation,HTML,English,1
+OCA,server-ux,https://github.com/OCA/server-ux,,HTML,English,145
+badmojr,1Hosts,https://github.com/badmojr/1Hosts,World's most advanced DNS filter-/blocklists!,HTML,English,1363
+ripienaar,free-for-dev,https://github.com/ripienaar/free-for-dev,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",HTML,English,84793
+microsoft,BotBuilder-Samples,https://github.com/microsoft/BotBuilder-Samples,"Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript/TypeScript, and Python to help you get started with the Bot Framework SDK!",HTML,English,4293
+whos-evan,elixir,https://github.com/whos-evan/elixir,"Elixir is a beautiful proxy made using Tailwind CSS, Ultraviolet and bare-server!",HTML,English,56
+vikramlearning,blazorbootstrap,https://github.com/vikramlearning/blazorbootstrap,An Enterprise-class Blazor Bootstrap Component library built on the Blazor and Bootstrap CSS frameworks.,HTML,English,517
+freeCodeCamp,boilerplate-project-urlshortener,https://github.com/freeCodeCamp/boilerplate-project-urlshortener,A boilerplate for a freeCodeCamp project.,HTML,English,61
+OCA,knowledge,https://github.com/OCA/knowledge,Odoo Document & Knowledge Management,HTML,English,147
+freeCodeCamp,boilerplate-project-exercisetracker,https://github.com/freeCodeCamp/boilerplate-project-exercisetracker,A boilerplate for a freeCodeCamp project.,HTML,English,46
+freeCodeCamp,boilerplate-project-headerparser,https://github.com/freeCodeCamp/boilerplate-project-headerparser,A boilerplate for a freeCodeCamp project.,HTML,English,41
+OCA,crm,https://github.com/OCA/crm,"Odoo CRM, Mail & Newsletter advanced features",HTML,English,143
+freeCodeCamp,boilerplate-project-timestamp,https://github.com/freeCodeCamp/boilerplate-project-timestamp,A boilerplate for a freeCodeCamp project.,HTML,English,104
+OCA,management-system,https://github.com/OCA/management-system,"Odoo for Management Systems (ISO, IEC, BS)",HTML,English,180
+OCA,purchase-workflow,https://github.com/OCA/purchase-workflow,"Odoo Purchases, Workflow and Organization",HTML,English,188
+authelia,authelia,https://github.com/authelia/authelia,The Single Sign-On Multi-Factor portal for web apps,Go,English,20061
+jesseduffield,lazydocker,https://github.com/jesseduffield/lazydocker,The lazier way to manage everything docker,Go,English,34244
+containers,skopeo,https://github.com/containers/skopeo,"Work with remote images registries - retrieving information, images, signing content",Go,English,7512
+projectdiscovery,katana,https://github.com/projectdiscovery/katana,A next-generation crawling and spidering framework.,Go,English,8851
+schollz,croc,https://github.com/schollz/croc,Easily and securely send things from one computer to another 🐊 📦,Go,English,26546
+gorilla,websocket,https://github.com/gorilla/websocket,"Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.",Go,English,21360
+apache,incubator-answer,https://github.com/apache/incubator-answer,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.",Go,English,11627
+weaviate,weaviate,https://github.com/weaviate/weaviate,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",Go,English,9820
+avelino,awesome-go,https://github.com/avelino/awesome-go,"A curated list of awesome Go frameworks, libraries and software",Go,English,122519
+volcano-sh,volcano,https://github.com/volcano-sh/volcano,A Cloud Native Batch System (Project under CNCF),Go,English,3824
+juicedata,juicefs,https://github.com/juicedata/juicefs,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,Go,English,9902
+prometheus,node_exporter,https://github.com/prometheus/node_exporter,Exporter for machine metrics,Go,English,10432
+milvus-io,milvus,https://github.com/milvus-io/milvus,"A cloud-native vector database, storage for next generation AI applications",Go,English,27433
+jesseduffield,lazygit,https://github.com/jesseduffield/lazygit,simple terminal UI for git commands,Go,English,46678
+usememos,memos,https://github.com/usememos/memos,"An open source, lightweight note-taking service. Easily capture and share your great thoughts.",Go,English,27876
+cloudnative-pg,cloudnative-pg,https://github.com/cloudnative-pg/cloudnative-pg,"CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance",Go,English,3555
+junegunn,fzf,https://github.com/junegunn/fzf,🌸 A command-line fuzzy finder,Go,English,60631
+nektos,act,https://github.com/nektos/act,Run your GitHub Actions locally 🚀,Go,English,51026
+karmada-io,karmada,https://github.com/karmada-io/karmada,"Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",Go,English,4175
+moby,buildkit,https://github.com/moby/buildkit,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",Go,English,7728
+aquasecurity,trivy,https://github.com/aquasecurity/trivy,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",Go,English,21664
+VictoriaMetrics,VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database",Go,English,11026
+containerd,containerd,https://github.com/containerd/containerd,An open and reliable container runtime,Go,English,16487
+prometheus,blackbox_exporter,https://github.com/prometheus/blackbox_exporter,Blackbox prober exporter,Go,English,4359
+bufbuild,buf,https://github.com/bufbuild/buf,The best way of working with Protocol Buffers.,Go,English,8348
+ventoy,Ventoy,https://github.com/ventoy/Ventoy,A new bootable USB solution.,C,English,58776
+DarkFlippers,unleashed-firmware,https://github.com/DarkFlippers/unleashed-firmware,Flipper Zero Unleashed Firmware,C,English,15421
+ithewei,libhv,https://github.com/ithewei/libhv,🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.,C,English,6433
+Mbed-TLS,mbedtls,https://github.com/Mbed-TLS/mbedtls,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",C,English,4973
+citusdata,pg_cron,https://github.com/citusdata/pg_cron,Run periodic jobs in PostgreSQL,C,English,2596
+swaywm,sway,https://github.com/swaywm/sway,i3-compatible Wayland compositor,C,English,13937
+NVIDIA,open-gpu-kernel-modules,https://github.com/NVIDIA/open-gpu-kernel-modules,NVIDIA Linux open GPU kernel module source,C,English,14059
+open-quantum-safe,liboqs,https://github.com/open-quantum-safe/liboqs,C library for prototyping and experimenting with quantum-resistant cryptography,C,English,1645
+NVIDIA,cuda-samples,https://github.com/NVIDIA/cuda-samples,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,C,English,5481
+HarbourMasters,Shipwright,https://github.com/HarbourMasters/Shipwright,,C,English,2823
+confluentinc,librdkafka,https://github.com/confluentinc/librdkafka,The Apache Kafka C/C++ library,C,English,7329
+taosdata,TDengine,https://github.com/taosdata/TDengine,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",C,English,22881
+pgvector,pgvector,https://github.com/pgvector/pgvector,Open-source vector similarity search for Postgres,C,English,9771
+ColinIanKing,stress-ng,https://github.com/ColinIanKing/stress-ng,This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.,C,English,1474
+OpenVPN,openvpn,https://github.com/OpenVPN/openvpn,OpenVPN is an open source VPN daemon,C,English,10066
+FreeRTOS,FreeRTOS-Kernel,https://github.com/FreeRTOS/FreeRTOS-Kernel,"FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",C,English,2415
+SoftEtherVPN,SoftEtherVPN,https://github.com/SoftEtherVPN/SoftEtherVPN,Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.,C,English,11151
+OpenSC,OpenSC,https://github.com/OpenSC/OpenSC,Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend,C,English,2451
+ggerganov,whisper.cpp,https://github.com/ggerganov/whisper.cpp,Port of OpenAI's Whisper model in C/C++,C,English,32018
+palera1n,palera1n,https://github.com/palera1n/palera1n,"Jailbreak for A8 through A11, T2 devices, on iOS/iPadOS/tvOS 15.0, bridgeOS 5.0 and higher.",C,English,4614
+Bodmer,TFT_eSPI,https://github.com/Bodmer/TFT_eSPI,"Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",C,English,3423
+grafana,pyroscope,https://github.com/grafana/pyroscope,Continuous Profiling Platform. Debug performance issues down to a single line of code,C,English,9515
+sonic-net,sonic-frr,https://github.com/sonic-net/sonic-frr,sonic frr,C,English,41
+pasqualerossi,42-School-Exam-Rank-02,https://github.com/pasqualerossi/42-School-Exam-Rank-02,First 42 School Exam,C,English,497
+labwc,labwc,https://github.com/labwc/labwc,A Wayland window-stacking compositor,C,English,1474
+microsoft,PowerToys,https://github.com/microsoft/PowerToys,Windows system utilities to maximize productivity,C#,English,105859
+jellyfin,jellyfin,https://github.com/jellyfin/jellyfin,The Free Software Media System,C#,English,30831
+elsa-workflows,elsa-core,https://github.com/elsa-workflows/elsa-core,A .NET workflows library,C#,English,5906
+betalgo,openai,https://github.com/betalgo/openai,"OpenAI .NET sdk - Azure OpenAI, ChatGPT, Whisper, and DALL-E",C#,English,2760
+Taiizor,ReaLTaiizor,https://github.com/Taiizor/ReaLTaiizor,ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-focused.,C#,English,1223
+TechnitiumSoftware,DnsServer,https://github.com/TechnitiumSoftware/DnsServer,Technitium DNS Server,C#,English,3676
+aspnetrun,run-aspnetcore-microservices,https://github.com/aspnetrun/run-aspnetcore-microservices,"Microservices on .Net platforms which used ASP.NET Web API, Docker, RabbitMQ, MassTransit, Grpc, Yarp API Gateway, PostgreSQL, Redis, SQLite, SqlServer, Marten, Entity Framework Core, CQRS, MediatR, DDD, Vertical and Clean Architecture implementation with using latest features of .NET 8 and C# 12",C#,English,2473
+Ryujinx,Ryujinx,https://github.com/Ryujinx/Ryujinx,Experimental Nintendo Switch Emulator written in C#,C#,English,32800
+MudBlazor,MudBlazor,https://github.com/MudBlazor/MudBlazor,Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.,C#,English,7302
+lay295,TwitchDownloader,https://github.com/lay295/TwitchDownloader,Twitch VOD/Clip Downloader - Chat Download/Render/Replay,C#,English,2412
+pizzaboxer,bloxstrap,https://github.com/pizzaboxer/bloxstrap,An alternative bootstrapper for Roblox with a bunch of extra features.,C#,English,1291
+dockersamples,example-voting-app,https://github.com/dockersamples/example-voting-app,"Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes",C#,English,4380
+Cysharp,MemoryPack,https://github.com/Cysharp/MemoryPack,Zero encoding extreme performance binary serializer for C# and Unity.,C#,English,2881
+radzenhq,radzen-blazor,https://github.com/radzenhq/radzen-blazor,"Radzen Blazor is a set of 70+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.",C#,English,3247
+dotnet,MQTTnet,https://github.com/dotnet/MQTTnet,MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.,C#,English,4236
+SeguraChain,SeguraChain,https://github.com/SeguraChain/SeguraChain,"SeguraChain (Secured Chain translated from Spanish) is a technology developed mainly in C#, it allows to easily create and understand a decentralized blockchain process, it can be configured to support a sovereign update system, allowing to include updates on it without editing the content of the Blockchain.",C#,English,5
+Unity-Technologies,UnityCsReference,https://github.com/Unity-Technologies/UnityCsReference,Unity C# reference source code.,C#,English,11460
+oskardudycz,EventSourcing.NetCore,https://github.com/oskardudycz/EventSourcing.NetCore,Examples and Tutorials of Event Sourcing in .NET,C#,English,3282
+beeradmoore,dlss-swapper,https://github.com/beeradmoore/dlss-swapper,,C#,English,1514
+bitwarden,server,https://github.com/bitwarden/server,"The core infrastructure backend (API, database, Docker, etc).",C#,English,14487
+MirrorNetworking,Mirror,https://github.com/MirrorNetworking/Mirror,#1 Open Source Unity Networking Library,C#,English,4909
+space-wizards,RobustToolbox,https://github.com/space-wizards/RobustToolbox,"Robust multiplayer game engine, used by Space Station 14",C#,English,485
+ClosedXML,ClosedXML,https://github.com/ClosedXML/ClosedXML,"ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.",C#,English,4467
+PowerShell,PowerShell,https://github.com/PowerShell/PowerShell,PowerShell for every system!,C#,English,43619
+danielpalme,ReportGenerator,https://github.com/danielpalme/ReportGenerator,"ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.",C#,English,2476
+Aircoookie,WLED,https://github.com/Aircoookie/WLED,Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!,C++,English,14033
+BlackINT3,OpenArk,https://github.com/BlackINT3/OpenArk,The Next Generation of Anti-Rookit(ARK) tool for Windows.,C++,English,7575
+PointCloudLibrary,pcl,https://github.com/PointCloudLibrary/pcl,Point Cloud Library (PCL),C++,English,9539
+microsoft,onnxruntime,https://github.com/microsoft/onnxruntime,"ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",C++,English,13020
+finos,perspective,https://github.com/finos/perspective,"A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",C++,English,7620
+nlohmann,json,https://github.com/nlohmann/json,JSON for Modern C++,C++,English,40662
+zerotier,ZeroTierOne,https://github.com/zerotier/ZeroTierOne,A Smart Ethernet Switch for Earth,C++,English,13573
+WebAssembly,wabt,https://github.com/WebAssembly/wabt,The WebAssembly Binary Toolkit,C++,English,6477
+Lymphatus,caesium-image-compressor,https://github.com/Lymphatus/caesium-image-compressor,"Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats. You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.",C++,English,2672
+google,flatbuffers,https://github.com/google/flatbuffers,FlatBuffers: Memory Efficient Serialization Library,C++,English,22174
+hrydgard,ppsspp,https://github.com/hrydgard/ppsspp,"A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",C++,English,10616
+async-profiler,async-profiler,https://github.com/async-profiler/async-profiler,Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events,C++,English,7195
+exaloop,codon,https://github.com/exaloop/codon,"A high-performance, zero-overhead, extensible Python compiler using LLVM",C++,English,13913
+cocos,cocos-engine,https://github.com/cocos/cocos-engine,"Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",C++,English,5398
+TixiaoShan,LIO-SAM,https://github.com/TixiaoShan/LIO-SAM,LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping,C++,English,3124
+tnodir,fort,https://github.com/tnodir/fort,Fort Firewall for Windows,C++,English,964
+google,lyra,https://github.com/google/lyra,A Very Low-Bitrate Codec for Speech Compression,C++,English,3773
+MAZHARMIK,Interview_DS_Algo,https://github.com/MAZHARMIK/Interview_DS_Algo,Super Repository for Coding Interview Preperation,C++,English,1178
+ClickHouse,ClickHouse,https://github.com/ClickHouse/ClickHouse,ClickHouse® is a real-time analytics DBMS,C++,English,34776
+MarlinFirmware,Marlin,https://github.com/MarlinFirmware/Marlin,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.,C++,English,15966
+ChefKissInc,NootedRed,https://github.com/ChefKissInc/NootedRed,The AMD Vega iGPU support patch kext. No commercial use.,C++,English,1507
+intel,pcm,https://github.com/intel/pcm,Intel® Performance Counter Monitor (Intel® PCM),C++,English,2599
+cdcseacave,openMVS,https://github.com/cdcseacave/openMVS,open Multi-View Stereo reconstruction library,C++,English,3138
+AlibabaResearch,AdvancedLiterateMachinery,https://github.com/AlibabaResearch/AdvancedLiterateMachinery,"A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Tongyi Lab, Alibaba Group.",C++,English,1037
+electron,electron,https://github.com/electron/electron,"Build cross-platform desktop apps with JavaScript, HTML, and CSS",C++,English,112242
+khoj-ai,khoj,https://github.com/khoj-ai/khoj,"Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",Python,English,8378
+pydantic,pydantic,https://github.com/pydantic/pydantic,Data validation using Python type hints,Python,English,19113
+openai,whisper,https://github.com/openai/whisper,Robust Speech Recognition via Large-Scale Weak Supervision,Python,English,61950
+dortania,OpenCore-Legacy-Patcher,https://github.com/dortania/OpenCore-Legacy-Patcher,Experience macOS just like before,Python,English,11127
+mikel-brostrom,yolo_tracking,https://github.com/mikel-brostrom/yolo_tracking,"BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models",Python,English,6233
+yt-dlp,yt-dlp,https://github.com/yt-dlp/yt-dlp,A feature-rich command-line audio/video downloader,Python,English,72935
+ccxt,ccxt,https://github.com/ccxt/ccxt,A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges,Python,English,31585
+langchain-ai,langchain,https://github.com/langchain-ai/langchain,🦜🔗 Build context-aware reasoning applications,Python,English,85834
+apache,airflow,https://github.com/apache/airflow,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",Python,English,34818
+Giskard-AI,giskard,https://github.com/Giskard-AI/giskard,🐢 Open-Source Evaluation & Testing for LLMs and ML models,Python,English,3296
+huggingface,transformers,https://github.com/huggingface/transformers,"🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",Python,English,126658
+ultralytics,yolov5,https://github.com/ultralytics/yolov5,YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite,Python,English,47612
+goauthentik,authentik,https://github.com/goauthentik/authentik,The authentication glue you need.,Python,English,7120
+obss,sahi,https://github.com/obss/sahi,Framework agnostic sliced/tiled inference + interactive ui + error analysis plots,Python,English,3658
+ranaroussi,yfinance,https://github.com/ranaroussi/yfinance,Download market data from Yahoo! Finance's API,Python,English,12064
+huggingface,diffusers,https://github.com/huggingface/diffusers,🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.,Python,English,23024
+AUTOMATIC1111,stable-diffusion-webui,https://github.com/AUTOMATIC1111/stable-diffusion-webui,Stable Diffusion web UI,Python,English,132192
+nerfstudio-project,nerfstudio,https://github.com/nerfstudio-project/nerfstudio,A collaboration friendly studio for NeRFs,Python,English,8674
+dmlc,dgl,https://github.com/dmlc/dgl,"Python package built to ease deep learning on graph, on top of existing DL frameworks.",Python,English,13081
+DeepLabCut,DeepLabCut,https://github.com/DeepLabCut/DeepLabCut,Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans,Python,English,4334
+lazyprogrammer,machine_learning_examples,https://github.com/lazyprogrammer/machine_learning_examples,A collection of machine learning examples and tutorials.,Python,English,8130
+run-llama,llama_index,https://github.com/run-llama/llama_index,LlamaIndex is a data framework for your LLM applications,Python,English,32030
+facebookresearch,pytorch3d,https://github.com/facebookresearch/pytorch3d,PyTorch3D is FAIR's library of reusable components for deep learning with 3D data,Python,English,8389
+vwxyzjn,cleanrl,https://github.com/vwxyzjn/cleanrl,"High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)",Python,English,4608
+RobertCraigie,prisma-client-py,https://github.com/RobertCraigie/prisma-client-py,Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use,Python,English,1719
