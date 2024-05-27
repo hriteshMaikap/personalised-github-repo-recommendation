@@ -1,0 +1,12 @@
+beautifulsoup4==4.9.3
+requests==2.25.1
+scikit-learn==0.24.1
+pandas==1.2.3
+nltk==3.5
+numpy==1.20.1
+torch==1.8.0
+transformers==4.3.3
+umap-learn==0.5.1
+scipy==1.6.1
+flask==1.1.2
+flask-cors==3.0.10
