@@ -10,7 +10,6 @@ Welcome to the GitHub Repository Recommender System! This project is designed to
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
 4. [Pipeline Overview](#pipeline-overview)
-5. [Usage](#usage)
 
 ## Introduction
 
