@@ -40,14 +40,13 @@ Ensure you have the following installed:
    ```sh
    git clone https://github.com/your-username/github-recommender-system.git
    cd github-recommender-system
-Install the required Python packages:
+2. Install the required python packages:
+   ```sh
+   pip install -r requirements.txt
 
-    ```sh
-pip install -r requirements.txt
-
-Add your GitHub token to the environment:
-    ````sh
-export GITHUB_TOKEN='your_github_token'
+4. Add your github token to the enviroment:
+   ```sh
+   export GITHUB_TOKEN='your_github_token'
 
 ## Pipeline Overview
 
@@ -69,24 +68,4 @@ export GITHUB_TOKEN='your_github_token'
 1. **Vectorize Data**: Transform the preprocessed data into vectors using TF-IDF.
 2. **Compute Similarity**: Calculate cosine similarity between user preferences and repository vectors.
 3. **Generate Recommendations**: Recommend repositories to users based on the highest similarity scores.
-
-## Usage
-
-### Fetching Data
-
-Run the data fetching scripts in the following order:
-
-1. `fetch_repo_data.py`
-2. `fetch_issue_labels.py`
-3. `fetch_trending_repos.py`
-4. `fetch_trending_repos_metadata.py`
-5. `fetch_trending_issues_labels.py`
-
-Example:
-```sh
-python fetch_repo_data.py
-python fetch_issue_labels.py
-python fetch_trending_repos.py
-python fetch_trending_repos_metadata.py
-python fetch_trending_issues_labels.py
 
